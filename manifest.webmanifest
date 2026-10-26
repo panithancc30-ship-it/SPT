@@ -1,0 +1,10 @@
+{
+  "name": "SPT Report — รายงานเจาะสำรวจดิน",
+  "short_name": "SPT Report",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#EDF1F0",
+  "theme_color": "#1D5C80",
+  "lang": "th",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
